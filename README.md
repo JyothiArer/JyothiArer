@@ -1,105 +1,136 @@
-# Hi, I'm Jyothi Arer 👋
+Hi, I’m Jyothi Arer 👋
 
-### MSc Computer Science Graduate | Aspiring Software Tester / QA Engineer
+MSc Computer Science Graduate | Aspiring QA Engineer
 
-Welcome to my GitHub profile! I am a Computer Science graduate with an interest in Software Testing, Quality Assurance, API Testing, SQL, and application development.
+Welcome to my GitHub profile! I am a Computer Science graduate with an interest in Software Testing, Quality Assurance, API Testing, SQL, Python, and application development.
 
-## 👩‍💻 About Me
+I enjoy learning new technologies and building reliable, user-friendly software applications.
 
-- 🎓 MSc Computer Science Graduate — 2026
-- 🧪 Interested in Manual Software Testing and Quality Assurance
-- 🔌 Knowledge of API Testing using Postman
-- 🗄️ Knowledge of SQL and Oracle
-- 🐍 Basic knowledge of Python
-- 🚀 Interested in building reliable and user-friendly software applications
-- 📚 Continuously learning and improving my technical skills
+⸻
 
-## 🧪 Software Testing Skills
+👩‍💻 About Me
 
-- Manual Testing
-- Software Development Life Cycle (SDLC)
-- Software Testing Life Cycle (STLC)
-- Black Box Testing
-- White Box Testing
-- Test Case Writing, Execution and Review
-- Smoke Testing
-- Functional Testing
-- Integration Testing
-- System Testing
-- Acceptance Testing
-- Regression Testing
-- Exploratory Testing
-- Ad-hoc Testing
-- Compatibility Testing
-- Bug Life Cycle
-- Test Plan
-- Traceability Matrix
+* 🎓 MSc Computer Science Graduate — 2026
+* 🧪 Interested in Manual Software Testing and Quality Assurance
+* 🔍 Interested in Software Quality and Data Validation
+* 🔌 Knowledge of API Testing using Postman
+* 🗄️ Knowledge of SQL and Oracle
+* 🐍 Basic knowledge of Python
+* 🌐 Learning Selenium and Test Automation
+* 📚 Continuously learning and improving my technical skills
 
-## 🔌 API Testing
+⸻
 
-- Postman
-- REST API Testing
-- GET, POST, PUT and DELETE Methods
-- Status Code Validation
-- Response Data Validation
-- Postman Collections
-- Environment Variables
+🧪 Software Testing Skills
 
-## 🗄️ Database & SQL
+* Manual Testing
+* SDLC
+* STLC
+* Black Box Testing
+* White Box Testing
+* Functional Testing
+* Integration Testing
+* System Testing
+* Acceptance Testing
+* Smoke Testing
+* Sanity Testing
+* Regression Testing
+* Exploratory Testing
+* Ad-hoc Testing
+* Compatibility Testing
+* Bug Life Cycle
+* Test Case Writing, Execution and Review
+* Test Plan
+* Traceability Matrix
 
-- RDBMS
-- SQL
-- DDL
-- DQL
-- DML
-- TCL
-- SQL Joins
-- Basic Normalization
-- Oracle 10g
+⸻
 
-## 💻 Programming
+🔌 API Testing
 
-- Python Basics
+* Postman
+* REST API Testing
+* GET, POST, PUT and DELETE Methods
+* HTTP Status Code Validation
+* Request and Response Validation
+* Postman Collections
+* Environment Variables
 
-## 🚗 MSc Major Project
+⸻
 
-### AI-Based Smart Car Rental Booking System with Intelligent Vehicle Recommendation
+🗄️ Database & SQL
 
-An intelligent web-based car rental booking system designed to simplify the vehicle rental process and provide personalized vehicle recommendations based on customer requirements.
+* RDBMS
+* SQL
+* DDL
+* DQL
+* DML
+* TCL
+* SQL Joins
+* Basic Normalization
+* Oracle
 
-### ✨ Key Features
+⸻
 
-- 🤖 AI-based intelligent vehicle recommendation
-- 🚗 Online vehicle booking
-- 💰 Dynamic rental price calculation
-- 👨‍💼 Admin dashboard for booking management
-- 📄 Automatic PDF receipt generation
-- ❌ Booking cancellation
-- 🗄️ SQLite database
-- 🔐 Secure booking management
-- 🆔 Unique booking ID generation
+💻 Programming & Technologies
 
-### 🛠️ Technologies Used
+* Python Basics
+* Selenium with Python — Learning
 
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQLite
+⸻
 
-## 🎓 Education
+🚗 Featured Project
 
-**MSc Computer Science — 2026**
+AI-Based Smart Car Rental Booking System with Intelligent Vehicle Recommendation
 
-Mysore, Karnataka
+An intelligent web-based car rental booking system designed to simplify the vehicle rental process and provide vehicle recommendations based on customer requirements.
 
-## 📫 Contact
+✨ Key Features
 
-- 📧 Email: jyothiarer23@gmail.com
-- 🐙 GitHub: [@JyothiArer](https://github.com/JyothiArer)
+* 🤖 Intelligent vehicle recommendation
+* 🚗 Online vehicle booking
+* 💰 Dynamic rental price calculation
+* 👨‍💼 Admin dashboard for booking management
+* 📄 Automatic PDF receipt generation
+* ❌ Booking cancellation
+* 🗄️ SQLite database
+* 🔐 Booking management
+* 🆔 Unique booking ID generation
 
----
+🛠️ Technologies Used
+
+Python | Flask | HTML | CSS | JavaScript | SQLite
+
+🌐 Live Demo
+
+👉 Open AI Car Rental System
+
+💻 Source Code
+
+👉 View Project on GitHub
+
+⸻
+
+🎓 Education
+
+Master of Science (M.Sc.) — Computer Science
+
+2026 | Mysore, Karnataka
+
+⸻
+
+📄 Resume
+
+My latest resume is available below:
+
+👉 View / Download Resume
+
+⸻
+
+📫 Contact
+
+* 📧 Email: jyothiarer23@gmail.com
+* 🐙 GitHub: @JyothiArer
+
+⸻
 
 ⭐ Thank you for visiting my GitHub profile!
-
