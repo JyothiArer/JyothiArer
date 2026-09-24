@@ -100,11 +100,11 @@ An intelligent web-based car rental booking system designed to simplify the vehi
 
 Python | Flask | HTML | CSS | JavaScript | SQLite
 
-🌐 Live Demo
+🌐 Live Demo:* [View Live Website](https://ai-car-rental-system.onrender.com)
 
 👉 Open AI Car Rental System
 
-💻 Source Code
+💻 Source Code:* [View on GitHub](https://github.com/JyothiArer/AI_Car_Rental_System)
 
 👉 View Project on GitHub
 
